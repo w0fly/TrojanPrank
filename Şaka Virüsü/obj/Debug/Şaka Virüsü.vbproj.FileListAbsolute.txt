@@ -1,0 +1,12 @@
+C:\Users\Alperen\source\repos\Şaka Virüsü\Şaka Virüsü\obj\Debug\Şaka Virüsü.vbprojAssemblyReference.cache
+C:\Users\Alperen\source\repos\Şaka Virüsü\Şaka Virüsü\obj\Debug\Şaka_Virüsü.Form1.resources
+C:\Users\Alperen\source\repos\Şaka Virüsü\Şaka Virüsü\obj\Debug\Şaka_Virüsü.Resources.resources
+C:\Users\Alperen\source\repos\Şaka Virüsü\Şaka Virüsü\obj\Debug\Şaka Virüsü.vbproj.GenerateResource.cache
+C:\Users\Alperen\source\repos\Şaka Virüsü\Şaka Virüsü\obj\Debug\Şaka Virüsü.vbproj.CoreCompileInputs.cache
+C:\Users\Alperen\source\repos\Şaka Virüsü\Şaka Virüsü\bin\Debug\Şaka Virüsü.exe.config
+C:\Users\Alperen\source\repos\Şaka Virüsü\Şaka Virüsü\bin\Debug\Şaka Virüsü.exe
+C:\Users\Alperen\source\repos\Şaka Virüsü\Şaka Virüsü\bin\Debug\Şaka Virüsü.pdb
+C:\Users\Alperen\source\repos\Şaka Virüsü\Şaka Virüsü\bin\Debug\Şaka Virüsü.xml
+C:\Users\Alperen\source\repos\Şaka Virüsü\Şaka Virüsü\obj\Debug\Şaka Virüsü.exe
+C:\Users\Alperen\source\repos\Şaka Virüsü\Şaka Virüsü\obj\Debug\Şaka Virüsü.xml
+C:\Users\Alperen\source\repos\Şaka Virüsü\Şaka Virüsü\obj\Debug\Şaka Virüsü.pdb
